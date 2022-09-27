@@ -8,8 +8,8 @@ div#main {
     width: 100%;
 }
 div#page {
-    background: url(../images/bg-start-scaled.jpg);
-    background-size: cover;
+    background: url(../images/bg1.jpg);
+    background-size: contain;
     background-position: top center;
     margin: -8px;
     overflow-x: hidden!important;
@@ -73,7 +73,7 @@ img.pic.pic2 {
     position: absolute;
     bottom: -63%;
     right: -7%;
-    width: 49%;
+    width: 39%;
 }
 .textcol.text1 {
     width: 40%;
