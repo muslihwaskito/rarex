@@ -8,7 +8,7 @@ div#main {
     width: 100%;
 }
 div#page {
-    background: url(../images/bg1.jpg);
+    background: url(../images/bg1.webp);
     background-size: contain;
     background-position: top center;
     margin: -8px;
